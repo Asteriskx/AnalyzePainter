@@ -1,0 +1,9 @@
+*.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.cache
+*.json
+*.props
+*.targets
